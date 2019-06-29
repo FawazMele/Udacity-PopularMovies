@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MovieDB1</string>
+    <string name="network_issue">Oops something went wrong , please make sure you are connected to the internet</string>
+    <string name="added_to_favorites">Movie was Added to the Favorites ! </string>
+    <string name="removed_from_favorites">Movie was Removed from the Favorites ! </string>
+</resources>
