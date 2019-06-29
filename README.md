@@ -11,3 +11,5 @@ You’ll also allow users to mark a movie as a favorite in the details view by t
 You'll make use of Android Architecture Components (Room, LiveData, ViewModel and Lifecycle) to create a robust an efficient application.
 You'll create a database using Room to store the names and ids of the user's favorite movies (and optionally, the rest of the information needed to display their favorites collection while offline).
 You’ll modify the existing sorting criteria for the main view to include an additional pivot to show their favorites collection.
+
+![Screenshot_1556135496](https://user-images.githubusercontent.com/16857085/60380119-815a1c80-9a48-11e9-8571-05ec7002150b.png)
